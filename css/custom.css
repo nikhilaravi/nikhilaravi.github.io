@@ -1,0 +1,9 @@
+/* your styles go here */
+.description {
+  font-size: 1.1em;
+}
+
+.name {
+  font-size: 1.5em;
+  text-transform: capitalize;
+}
